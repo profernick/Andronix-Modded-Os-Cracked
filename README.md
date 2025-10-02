@@ -6,6 +6,7 @@ Crack andronix modded os
 bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy.sh)
 #### Ubuntu xfce
 bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy2.sh)
+##### More os rootfs later limits is over:(
 ### How?
 Analyzing install script and download rootfs files without script
 Uploding rootfs to github and remove check in install script&change download link
