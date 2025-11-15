@@ -2,9 +2,9 @@
 
 PS3="Select Number (1-5): "
 
-options=("Manjaro xfce" "Ubuntu xfce" "Debian xfce" "Ubuntu kde" "Exit)
+options=("Manjaro xfce" "Ubuntu xfce" "Debian xfce" "Ubuntu kde" "Exit")
 
-echo "\033[0;32m Andronix Modded Os Crack!!! Fuck Andronix \033[0m"
+echo -e "\033[0;32m Andronix Modded Os Crack!!! Fuck Andronix \033[0m"
 echo "Please Select Distribution to install:"
 
 select opt in "${options[@]}"
@@ -16,12 +16,12 @@ do
             break
             ;;
         "Ubuntu xfce")
-            echo "Selected Instalation: Ubuntu xfce..."
+            echo "Selected Installation: Ubuntu xfce..."
             bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy2.sh)
             break
             ;;
         "Debian xfce")
-            echo "Выбрана установка Debian xfce..."
+            echo "Selected installation: Debian xfce..."
             bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy3.sh)
             break
             ;;
@@ -34,7 +34,7 @@ do
             echo "Cancel..."
             break
             ;;
-        *) 
+        *)
             echo "Incorrect Number"
             ;;
     esac
