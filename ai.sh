@@ -4,7 +4,7 @@ PS3="Select Number (1-5): "
 
 options=("Manjaro xfce" "Ubuntu xfce" "Debian xfce" "Ubuntu kde" "Exit)
 
-echo ""\033[0;32m Andronix Modded Os Crack!!! Fuck Andronix \033[0m"
+echo "\033[0;32m Andronix Modded Os Crack!!! Fuck Andronix \033[0m"
 echo "Please Select Distribution to install:"
 
 select opt in "${options[@]}"
