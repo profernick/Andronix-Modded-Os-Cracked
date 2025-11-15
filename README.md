@@ -2,6 +2,8 @@
 Crack andronix modded os
 ## Install
 ### If you have problem open new issue pls
+### Selecting Menu(Beta?)
+bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/ai.sh)
 #### Manjaro xfce
 bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy.sh)
 #### Ubuntu xfce
