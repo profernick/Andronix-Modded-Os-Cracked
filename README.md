@@ -13,7 +13,9 @@ bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-C
 #### Ubuntu kde
 bash <(curl -s https://raw.githubusercontent.com/profernick/Andronix-Modded-Os-Cracked/refs/heads/main/nahuy4.sh)
 ### How?
-Analyzing install script and download rootfs files without script
+Analyzing install script&Decrypt script and download rootfs files without script
 Uploding rootfs to github and remove check in install script&change download link
 ### Tutorial for crack?
 No
+### Crack without github using official download link?
+Impossible its required token and other information like expired time
